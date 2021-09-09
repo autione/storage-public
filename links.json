@@ -1,22 +1,44 @@
 [
   {
+    "title": "wthr.auti.one",
+    "url": "https://wthr.auti.one/",
+    "description": "Slightly borked weather app that I only made to test PWAs.",
+    "thirdParty": false
+  },
+  {
+    "title": "old.auti.one",
+    "url": "https://old.auti.one/",
+    "description": "My website's first version. Not maintained!",
+    "thirdParty": false
+  },
+  {
     "title": "znepb.one",
     "url": "https://znepb.one/",
-    "description": "My friend's znepb website. I also helped him with that one, check it out!"
+    "description": "My friend's znepb website. I also helped him with that one, check it out!",
+    "thirdParty": true
   },
   {
     "title": "pjals.one",
     "url": "https://pjals.one/",
-    "description": "wElComE tO nGiNx!11!!!1!"
+    "description": "wElComE tO nGiNx!11!!!1!",
+    "thirdParty": true
   },
   {
     "title": "blackdrgn.nl",
     "url": "https://blackdrgn.nl/",
-    "description": "The States of Dutch™️"
+    "description": "The States of Dutch™️",
+    "thirdParty": true
   },
   {
     "title": "knijn.ga",
     "url": "https://knijn.ga/",
-    "description": "free domain go brrrrrr"
-  }
+    "description": "free domain go brrrrrr",
+    "thirdParty": true
+  },
+  {
+    "title": "open.spotify.com",
+    "url": "https://open.spotify.com/track/0Y08zhvCal5BZZNS0RqBFN",
+    "description": "My favourite song: Bill Wurtz - Just Did a Bad Thing.",
+    "thirdParty": true
+  },
 ]
