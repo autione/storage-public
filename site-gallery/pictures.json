@@ -1,30 +1,43 @@
 [
   {
     "title": "A R R I V A L",
-    "filename": "arrival.gif"
+    "filename": "arrival.gif",
+    "submitter": null
   },
   {
     "title": "D E P A R T U R E",
-    "filename": "departure.gif"
+    "filename": "departure.gif",
+    "submitter": null
   },
   {
     "title": "seal invasion",
-    "filename": "seal-invasion.png"
+    "filename": "seal-invasion.png",
+    "submitter": null
   },
   {
     "title": "chonki seel blackdragon",
-    "filename": "chonk.png"
+    "filename": "chonk.png",
+    "submitter": null
   },
   {
     "title": ".NET developer lmfao",
-    "filename": "dotnet-dev.png"
+    "filename": "dotnet-dev.png",
+    "submitter": null
   },
   {
     "title": "little nap",
-    "filename": "little-nap.jpeg"
+    "filename": "little-nap.jpeg",
+    "submitter": {
+      "name": "nix",
+      "url": "https://nixnixie.carrd.co/"
+    }
   },
   {
     "title": "ralcat",
-    "filename": "ralcat.jpeg"
+    "filename": "ralcat.jpeg",
+    "submitter": {
+      "name": "Yoxoto",
+      "url": "https://twitter.com/Yoxotolo"
+    }
   }
 ]
