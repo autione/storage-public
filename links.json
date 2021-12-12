@@ -1,5 +1,11 @@
 [
   {
+    "title": "html.auti.one",
+    "url": "https://html.auti.one/",
+    "description": "Gists as a service. This thing gets a GitHub Gist and (tries to) render it as an HTML webpage.",
+    "thirdParty": false
+  },
+  {
     "title": "wthr.auti.one",
     "url": "https://wthr.auti.one/",
     "description": "Slightly borked weather app that I only made to test PWAs.",
@@ -14,13 +20,13 @@
   {
     "title": "znepb.one",
     "url": "https://znepb.one/",
-    "description": "My friend's znepb website. I also helped him with that one, check it out!",
+    "description": "Now available in v6 edition!",
     "thirdParty": true
   },
   {
     "title": "pjals.one",
     "url": "https://pjals.one/",
-    "description": "wElComE tO nGiNx!11!!!1!",
+    "description": "It's now an actual website!",
     "thirdParty": true
   },
   {
